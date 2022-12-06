@@ -1,2 +1,1 @@
 # TryHackMe
-TryHackMe solutions
