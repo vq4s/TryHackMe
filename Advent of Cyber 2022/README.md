@@ -1,2 +1,2 @@
-You can see all solution of Advent of Cyber 2022 room. 
+You can see all solutions of AoC 2022.
 https://tryhackme.com/room/adventofcyber4
