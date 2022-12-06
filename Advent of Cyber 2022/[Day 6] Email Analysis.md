@@ -63,7 +63,7 @@ Here, if you find any suspicious URLs and IP addresses, consider using some OSIN
 |Browserling|A browser sandbox is used to test suspicious/malicious links.|
 |Wannabrowser|A browser sandbox is used to test suspicious/malicious links.|
 
-by TryHackMe.
+from TryHackMe.
 
 ## Answers
 1.What is the email address of the sender: **chief.elf@santaclaus.thm** \
