@@ -64,18 +64,18 @@ Here, if you find any suspicious URLs and IP addresses, consider using some OSIN
 |Wannabrowser|A browser sandbox is used to test suspicious/malicious links.|
 
 ## Answers
-1.What is the email address of the sender: chief.elf@santaclaus.thm \
-2.What is the return address: murphy.evident@bandityeti.thm \
-3.On whose behalf was the email sent: Chief Elf  \
-4.What is the X-spam score: 3 \
+1.What is the email address of the sender: **chief.elf@santaclaus.thm** \
+2.What is the return address: **murphy.evident@bandityeti.thm** \
+3.On whose behalf was the email sent: **Chief Elf**  \
+4.What is the X-spam score: **3** \
 ![image](https://user-images.githubusercontent.com/53142039/205989971-18a12460-0133-4464-90e6-b4ca9003849d.png)\
-5.What is hidden in the value of the Message-ID field(base64): AoC2022_Email_Analysis \
-6.What is the reputation result of the sender's email address: RISKY \
+5.What is hidden in the value of the Message-ID field(base64): **AoC2022_Email_Analysis** \
+6.What is the reputation result of the sender's email address: **RISKY** \
 ![image](https://user-images.githubusercontent.com/53142039/205993613-1cb8477c-a764-4714-8530-c5bce73b805e.png)
-7.What is the filename of the attachment: Division_of_labour-Load_share_plan.doc \
-8.What is the hash value of the attachment: 0827bb9a2e7c0628b82256759f0f888ca1abd6a2d903acdb8e44aca6a1a03467 \
+7.What is the filename of the attachment: **Division_of_labour-Load_share_plan.doc** \
+8.What is the hash value of the attachment: **0827bb9a2e7c0628b82256759f0f888ca1abd6a2d903acdb8e44aca6a1a03467** \
 ![image](https://user-images.githubusercontent.com/53142039/205985139-f9823875-1b57-4d8d-8df5-42f22fa33553.png) \
-9.What is the second tactic marked in the Mitre ATT&CK section: Defense Evasion \
+9.What is the second tactic marked in the Mitre ATT&CK section: **Defense Evasion** \
 ![image](https://user-images.githubusercontent.com/53142039/205993630-ff63cbed-4397-4b3b-b1aa-9beebf94674a.png)
-10.What is the subcategory of the file: macro_hunter \
+10.What is the subcategory of the file: **macro_hunter** \
 ![image](https://user-images.githubusercontent.com/53142039/205993625-3da8842c-5012-4e1b-906c-15e911128c43.png)
