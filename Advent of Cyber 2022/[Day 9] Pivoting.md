@@ -31,11 +31,11 @@ Once an attacker gains initial entry into a system, the compromised machine can 
 
 For example - an initial foothold could be gained through a web application running in a docker container or through an exposed port on a Windows machine. This system will become the attack launchpad for other systems in the network.
 
-![Image of initial foothold between a pentester host and a compromised container](https://tryhackme-images.s3.amazonaws.com/user-uploads/5ed3f13d38407304044dd845/room-content/96b6f34691943493b36baed19bd4641a.png)
+![note1](https://user-images.githubusercontent.com/53142039/208082285-c2c496b1-7c4c-45e8-8f44-3256ecbad0a3.png)
 
 We can route network traffic through this compromised machine to run network scanning tools such as `nmap` or `arp` to find additional machines and services which were previously inaccessible to the pentester. This concept is called network pivoting.
 
-![Image of pivoting using a compromised container to other endpoints on the network](https://tryhackme-images.s3.amazonaws.com/user-uploads/5ed3f13d38407304044dd845/room-content/81947d7cc301f1505f383089991cd3bc.png)
+![note2](https://user-images.githubusercontent.com/53142039/208082287-1bbf5558-e934-4a67-bc6e-bf231f4829bd.png)
 
 ## Using Meterpreter to pivot
 
